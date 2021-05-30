@@ -6,6 +6,6 @@ private String lastName;
 private String graduatedField;
 private String email;
 private String phoneNumber;
-//sprivate
+private EducationalInstitution graduatedEducationalInstitution;
 
 }
